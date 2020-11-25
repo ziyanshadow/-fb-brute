@@ -8,7 +8,7 @@ bruteforce attack on facebook account script in python
 
 ## Run commands one by one
 
-git clone https://github.com/toxicshark/brute
+git clone https://github.com/ziyanshadow/fb-brute
 
 cd brute
 
