@@ -1,11 +1,13 @@
 # Author: https://github.com/ziyanshadow
-Facebook: www.facebook.com/Ziyan.Official
+#Facebook: www.facebook.com/Ziyan.Official
 
 Don't copy this code without my credits!
-BruteForce
+
+##BruteForce
 bruteforce attack on facebook account script in python
 
-Run commands one by one
+##Run commands one by one
+
 git clone https://github.com/toxicshark/brute
 
 cd brute
