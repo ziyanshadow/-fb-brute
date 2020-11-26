@@ -66,9 +66,9 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: Banglar Puran Baagh Ziyan Hossain         | 
+        |            #Author: Banglar Puran Baagh Ziyan Hossain              | 
         |	       Version 1.0                |
- 	|https://www.facebook.com/BanglarPuranBaagh |
+ 	|   https://www.facebook.com/Ziyan.Official01      |
         +=========================================+
         |..........  fb-brute  ...........|
         +-----------------------------------------+\n\n
