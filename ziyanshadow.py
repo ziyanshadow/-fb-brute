@@ -66,9 +66,9 @@ def welcome():
         +=========================================+
         |..........   Facebook Crack   ...........|
         +-----------------------------------------+
-        |            #Author: Z1Y@NSh4DoW         | 
+        |            #Author: Ziyan Hossain         | 
         |	       Version 1.0                |
- 	|https://www.facebook.com/Z1Y@NSh4DoW |
+ 	|https://www.facebook.com/Ziyan.Official01 |
         +=========================================+
         |..........  fb-brute  ...........|
         +-----------------------------------------+\n\n
